@@ -18,5 +18,5 @@ I am trying to solve..
 ### Methodology
 1. Word2vec to gather synonyms 
 2. Dynamic LDA to classify corpus into topics and analyze them in a time series view
-3. BerTopic
+3. BERTopic
 4. Time series analysis
